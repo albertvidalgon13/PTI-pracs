@@ -1,0 +1,51 @@
+127.0.0.1 - - [15/Feb/2023:10:57:41 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:10:57:42 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:10:57:42 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:10:57:42 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:10:57:43 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:10:57:43 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:10:57:43 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:10:57:43 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:10:57:44 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:10:58:01 -0800] "-" 400 2176
+127.0.0.1 - - [15/Feb/2023:10:58:01 -0800] "-" 400 2186
+127.0.0.1 - - [15/Feb/2023:10:58:07 -0800] "-" 400 2224
+127.0.0.1 - - [15/Feb/2023:10:58:07 -0800] "-" 400 2234
+127.0.0.1 - - [15/Feb/2023:10:58:16 -0800] "GET / HTTP/1.1" 200 11163
+127.0.0.1 - - [15/Feb/2023:10:58:16 -0800] "GET /tomcat.svg HTTP/1.1" 200 67795
+127.0.0.1 - - [15/Feb/2023:10:58:16 -0800] "GET /bg-nav.png HTTP/1.1" 200 1401
+127.0.0.1 - - [15/Feb/2023:10:58:16 -0800] "GET /bg-middle.png HTTP/1.1" 200 1918
+127.0.0.1 - - [15/Feb/2023:10:58:16 -0800] "GET /bg-upper.png HTTP/1.1" 200 3103
+127.0.0.1 - - [15/Feb/2023:10:58:16 -0800] "GET /bg-button.png HTTP/1.1" 200 713
+127.0.0.1 - - [15/Feb/2023:10:58:16 -0800] "GET /asf-logo-wide.svg HTTP/1.1" 200 8192
+127.0.0.1 - - [15/Feb/2023:10:58:36 -0800] "GET /my_webapp/carrental_form_new.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:10:58:37 -0800] "GET /my_webapp/new?co2_rating=54&sub_model_vehicle=Hybrid&dies_lloguer=1&num_vehicles=1&descompte=0.0&llogar=Submit+%28GET%29 HTTP/1.1" 200 206
+127.0.0.1 - - [15/Feb/2023:11:01:41 -0800] "GET /my_webapp/carrental_form_list.html HTTP/1.1" 200 635
+127.0.0.1 - - [15/Feb/2023:11:06:56 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:07:10 -0800] "-" 400 2188
+127.0.0.1 - - [15/Feb/2023:11:07:10 -0800] "-" 400 2200
+127.0.0.1 - - [15/Feb/2023:11:07:53 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:07:53 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:07:53 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:07:53 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:07:54 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:27 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:27 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:28 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:28 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:28 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:28 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:28 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:29 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:29 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:29 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:29 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:29 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:17:50 -0800] "-" 400 -
+127.0.0.1 - - [15/Feb/2023:11:17:50 -0800] "-" 400 -
+127.0.0.1 - - [15/Feb/2023:11:17:55 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 200 347
+127.0.0.1 - - [15/Feb/2023:11:17:55 -0800] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [15/Feb/2023:11:57:50 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:58:01 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:58:03 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/Feb/2023:11:58:03 -0800] "GET /my_webapp/carrental_home.html HTTP/1.1" 304 -
